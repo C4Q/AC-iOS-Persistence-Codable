@@ -30,6 +30,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		571108901FE05E8C00C16DDB /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		5767EDE91FDAE4BA0088FE95 /* DSA.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DSA.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5767EDEC1FDAE4BA0088FE95 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5767EDEE1FDAE4BA0088FE95 /* DSAListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DSAListViewController.swift; sourceTree = "<group>"; };
@@ -67,6 +68,7 @@
 		5767EDE01FDAE4BA0088FE95 = {
 			isa = PBXGroup;
 			children = (
+				571108901FE05E8C00C16DDB /* README.md */,
 				5767EDEB1FDAE4BA0088FE95 /* DSA */,
 				5767EE0E1FDAE9970088FE95 /* Supporting Files */,
 				5767EE001FDAE4BA0088FE95 /* DSATests */,
